@@ -1,0 +1,16 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+#row #column{
+    background-color: slategrey;
+
+}
+.jump{
+    height: 400px;
+    width: 70%;
+    background-color: aqua;
+    border-radius: 50%;
+    transform: rotate3d(90deg);
+    transition: 1s ease-in-out;
+    display: none;
+}
